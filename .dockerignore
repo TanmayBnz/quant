@@ -1,0 +1,16 @@
+.git
+.agents
+.codex
+.venv
+backtester/.venv
+**/__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+.coverage
+htmlcov
+tests
+learning
+scripts
+data/cache
+data/live

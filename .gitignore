@@ -1,0 +1,15 @@
+.venv/
+.agents/
+.claude/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.streamlit/secrets.toml
+data/cache/
+data/live/
+.DS_Store
